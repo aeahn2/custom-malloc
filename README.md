@@ -1,5 +1,5 @@
 # Custom Malloc 
-***
+
 A custom wrapper for memory allocation functions `malloc()`, `calloc()`, `realloc()`, and `free()`
 ***
 ### Configuration 
